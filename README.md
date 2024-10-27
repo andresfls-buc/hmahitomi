@@ -3,6 +3,8 @@
 
 **Website for a Hair and Makeup Artist**
 
+LINK TO THE WEBSITE: https://andresfls-buc.github.io/hmahitomi/
+
 ## Overview
 
 The HMA Hitomi website is designed to showcase the portfolio and services of Hitomi, a skilled hair and makeup artist. The website offers a detailed look at her work, background, and contact options.
